@@ -1,0 +1,843 @@
+{
+	"name":"Scope of Services",
+	"children":[
+		{
+			"name":"1. Pre-Design",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Programming",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Space Relationships",
+							"value":0.4,
+							"color":"#00a09a"
+						},
+						{
+							"name":"Flow Diagrams",
+							"value":0.4,
+							"color":"#00a09a"
+						}
+					]
+				},
+				{
+					"name":"Project !Development/!Scheduling",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Energy Studies",
+							"value":0.2666666667,
+							"color":"#00a09a"
+						},
+						{
+							"name":"Client Supplied !Data Co-ordination",
+							"color":"#00a09a",
+							"children":[
+								{
+									"name":"Surveys",
+									"value":0.1333333333,
+									"color":"#00a09a"
+								},
+								{
+									"name":"Existing Facilities",
+									"value":0.1333333333,
+									"color":"#00a09a"
+								}
+							]
+						},
+						{
+							"name":"Special Studies",
+							"value":0.2666666667,
+							"color":"#00a09a"
+						}
+					]
+				},
+				{
+					"name":"Project Budgeting",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Life Cycle !Cost Studies",
+							"value":0.4166666667,
+							"color":"#00a09a"
+						},
+						{
+							"name":"Economic !Feasibility Studies",
+							"value":0.4166666667,
+							"color":"#00a09a"
+						}
+					]
+				},
+				{
+					"name":"Site Selection/!Analysis/Utilization",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Environmental !Studies",
+							"value":0.4166666667,
+							"color":"#00a09a"
+						},
+						{
+							"name":"Official !PC/Zoning Reviews",
+							"value":0.4166666667,
+							"color":"#00a09a"
+						}
+					]
+				},
+				{
+					"name":"Obtain Consultant’s !Proposals",
+					"value":1,
+					"color":"#00a09a"
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Legal Survey",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Land Survey",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Geotechnical !Analysis",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Environmental",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Urban Planning",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Collect Site Data",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Municipal By-Law !Review",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Foreign Practices !Review",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Project Scheduling",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						},
+						{
+							"name":"Project Financing",
+							"value":0.08333333333,
+							"color":"#fcc40f"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"2. Schematic Design",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Client-Supplied !Data Coordination",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Project Management",
+							"color":"#00a09a",
+							"value":0.5555555556
+						},
+						{
+							"name":"Agency Consultation",
+							"color":"#00a09a",
+							"value":0.5555555556
+						}
+					]
+				},
+				{
+					"name":"Program and Budget !Evaluation",
+					"color":"#00857c",
+					"value":1.111111111
+				},
+				{
+					"name":"Review of Alternate !Design Approaches",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Special Studies",
+							"color":"#00a09a",
+							"value":0.5555555556
+						},
+						{
+							"name":"Special Submissions !or Promotional !Presentations",
+							"color":"#00a09a",
+							"value":0.5555555556
+						}
+					]
+				},
+				{
+					"name":"Architectural !Schematic Design",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Special Models, !Perspectives or !Computer Presentations",
+							"color":"#00a09a",
+							"value":1.111111111
+						}
+					]
+				},
+				{
+					"name":"Schematic Design !Drawings and !Documents",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Interior Design !Concepts",
+							"color":"#00a09a",
+							"value":1.111111111
+						}
+					]
+				},
+				{
+					"name":"Statement of Probable !Construction Costs",
+					"color":"#00857c",
+					"value":1.111111111
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00857c",
+					"value":1.111111111
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Structural Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Mechanical Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Electrical Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Statements of !Probable Costs",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						}
+					]
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Civil Design !Concepts",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						},
+						{
+							"name":"Landscape Concepts",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						},
+						{
+							"name":"Statements of !Probable Costs",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"3. Design Development",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Client-Supplied !Data Coordination",
+					"color":"#00a09a",
+					"value":1.111111111
+				},
+				{
+					"name":"Design Coordination ",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Special Studies/!Reports",
+							"color":"#00a09a",
+							"value":0.3703703704
+						},
+						{
+							"name":"Project Management",
+							"color":"#00a09a",
+							"value":0.3703703704
+						},
+						{
+							"name":"Agency Consultation",
+							"color":"#00a09a",
+							"value":0.3703703704
+						}
+					]
+				},
+				{
+					"name":"Architectural Design !Development",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Promotional !Presentations",
+							"color":"#00a09a",
+							"value":0.5555555556
+						},
+						{
+							"name":"Models, Perspectives !or Computer !Presentations",
+							"color":"#00a09a",
+							"value":0.5555555556
+						}
+					]
+				},
+				{
+					"name":"Design Development",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Interior Design !Development",
+							"color":"#00a09a",
+							"value":1.111111111
+						}
+					]
+				},
+				{
+					"name":"Drawings and !Documents",
+					"color":"#00a09a",
+					"value":1.111111111
+				},
+				{
+					"name":"Statement of Probable !Construction Costs",
+					"color":"#00a09a",
+					"value":1.111111111
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00a09a",
+					"value":1.111111111
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Structural Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Mechanical Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Electrical Design !Development",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						},
+						{
+							"name":"Statements of !Probable Costs",
+							"color":"#5bb7ac",
+							"value":0.2777777778
+						}
+					]
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Civil Engineering !Design Development",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						},
+						{
+							"name":"Landscape !Development",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						},
+						{
+							"name":"Detailed Construction !Cost Estimates or !Quantity Surveys",
+							"color":"#fcc40f",
+							"value":0.3703703704
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"4. Construction !Documents",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Client-Supplied !Data Coordination",
+					"color":"#00a09a",
+					"value":6.25
+				},
+				{
+					"name":"Project Coordination",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Alternative Bid !Details and Special !Bid Documents",
+							"color":"#00a09a",
+							"value":2.083333333
+						},
+						{
+							"name":"Project Management",
+							"color":"#00a09a",
+							"value":2.083333333
+						},
+						{
+							"name":"Agency Consultation",
+							"color":"#00a09a",
+							"value":2.083333333
+						}
+					]
+				},
+				{
+					"name":"Architectural !Construction !Documents",
+					"color":"#00a09a",
+					"children":[
+						{
+							"name":"Interior !Construction !Documents",
+							"color":"#00a09a",
+							"value":6.25
+						}
+					]
+				},
+				{
+					"name":"Document Checking !and Coordination",
+					"color":"#00a09a",
+					"value":6.25
+				},
+				{
+					"name":"Statement of Probable !Construction Costs",
+					"color":"#00a09a",
+					"value":6.25
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00a09a",
+					"value":6.25
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Structural !Construction !Documents",
+							"color":"#5bb7ac",
+							"value":1.5625
+						},
+						{
+							"name":"Mechanical !Construction !Documents",
+							"color":"#5bb7ac",
+							"value":1.5625
+						},
+						{
+							"name":"Electrical  !Construction !Documents",
+							"color":"#5bb7ac",
+							"value":1.5625
+						},
+						{
+							"name":"Statements of !Probable Costs",
+							"color":"#5bb7ac",
+							"value":1.5625
+						}
+					]
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Civil Engineering !Construction !Documents",
+							"color":"#fcc40f",
+							"value":2.083333333
+						},
+						{
+							"name":"Landscape !Documents",
+							"color":"#fcc40f",
+							"value":2.083333333
+						},
+						{
+							"name":"Detailed Construction !Cost Estimates or !Quantity Surveys",
+							"color":"#fcc40f",
+							"value":2.083333333
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"5. Bidding \u0026 !Negotiation",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Client-supplied !Data Coordination ",
+					"color":"#00857c",
+					"value":0.5555555556
+				},
+				{
+					"name":"Project Coordination",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Project Management",
+							"color":"#00a09a",
+							"value":0.5555555556
+						}
+					]
+				},
+				{
+					"name":"Issue Bidding !Documents",
+					"color":"#00857c",
+					"value":0.5555555556
+				},
+				{
+					"name":"Issue Addenda",
+					"color":"#00857c",
+					"value":0.5555555556
+				},
+				{
+					"name":"Bid Evaluation",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Separate Bids or !Negotiated Bids",
+							"color":"#00a09a",
+							"value":0.2777777778
+						},
+						{
+							"name":"Services Related to !Bidders’ Proposals",
+							"color":"#00a09a",
+							"value":0.2777777778
+						}
+					]
+				},
+				{
+					"name":"Construction Contract",
+					"color":"#00857c",
+					"value":0.5555555556
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00857c",
+					"value":0.5555555556
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Issue Bidding !Documents",
+							"color":"#5bb7ac",
+							"value":0.1851851852
+						},
+						{
+							"name":"Issue Addenda",
+							"color":"#5bb7ac",
+							"value":0.1851851852
+						},
+						{
+							"name":"Bid Evaluation",
+							"color":"#5bb7ac",
+							"value":0.1851851852
+						}
+					]
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Issue Bidding !Documents",
+							"color":"#fcc40f",
+							"value":0.1851851852
+						},
+						{
+							"name":"Issue Addenda",
+							"color":"#fcc40f",
+							"value":0.1851851852
+						},
+						{
+							"name":"Bid Evaluation",
+							"color":"#fcc40f",
+							"value":0.1851851852
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"6. Construction !Contract !Administration",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Field Review",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Progress Reports/ !Evaluation",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Process Certificates !for Payment",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Interpretation of !Contract Documents",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Review of Shop !Drawing Product !Data/Sample",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Change Orders",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Substantial !Performance Report !and Certification",
+					"color":"#00857c",
+					"value":2.5
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00857c",
+					"children":[
+						{
+							"name":"Interior Construction !Review",
+							"color":"#00a09a",
+							"value":0.4166666667
+						},
+						{
+							"name":"Full-time Project !Representation",
+							"color":"#00a09a",
+							"value":0.4166666667
+						},
+						{
+							"name":"Administration of !Separate Contracts",
+							"color":"#00a09a",
+							"value":0.4166666667
+						},
+						{
+							"name":"Project Management",
+							"color":"#00a09a",
+							"value":0.4166666667
+						},
+						{
+							"name":"Promotional Material !Record Drawings",
+							"color":"#00a09a",
+							"value":0.4166666667
+						},
+						{
+							"name":"Agency Consultation",
+							"color":"#00a09a",
+							"value":0.4166666667
+						}
+					]
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Structural review/ !Reports",
+							"color":"#5bb7ac",
+							"value":0.8333333333
+						},
+						{
+							"name":"Mechanical review/ !Reports",
+							"color":"#5bb7ac",
+							"value":0.8333333333
+						},
+						{
+							"name":"Electrical review/ !Reports",
+							"color":"#5bb7ac",
+							"children":[
+								{
+									"name":"Record Drawings",
+									"color":"#5bb7ac",
+									"value":0.4166666667
+								},
+								{
+									"name":"Certification !of Progress",
+									"color":"#5bb7ac",
+									"value":0.4166666667
+								}
+							]
+						}
+					]
+				},
+				{
+					"name":"Special Consultants !Services",
+					"color":"#fcc40f",
+					"children":[
+						{
+							"name":"Civil Construction !Review",
+							"color":"#fcc40f",
+							"value":0.8333333333
+						},
+						{
+							"name":"Landscape !Inspection",
+							"color":"#fcc40f",
+							"value":0.8333333333
+						},
+						{
+							"name":"Detailed Cost !Accounting",
+							"color":"#fcc40f",
+							"value":0.8333333333
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"7. Post Construction",
+			"color":"#226159",
+			"children":[
+				{
+					"name":"Field Review",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Deficiency Assessment",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Review of Warranties",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Total Performance !Inspection and !Certification",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Client Consultation",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Start-up Assistance",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"One-year Warranty !Inspections",
+					"color":"#00a09a",
+					"value":0.5555555556
+				},
+				{
+					"name":"Consultants Services",
+					"color":"#5bb7ac",
+					"children":[
+						{
+							"name":"Start-up Assistance",
+							"color":"#5bb7ac",
+							"value":0.1111111111
+						},
+						{
+							"name":"Systems Performance !Review",
+							"color":"#5bb7ac",
+							"value":0.1111111111
+						},
+						{
+							"name":"Non-building Equipment !Selection",
+							"color":"#5bb7ac",
+							"value":0.1111111111
+						},
+						{
+							"name":"Life Cycle !Cost Monitoring",
+							"color":"#5bb7ac",
+							"value":0.1111111111
+						},
+						{
+							"name":"Services related !to Alterations and !Demolition",
+							"color":"#5bb7ac",
+							"value":0.1111111111
+						}
+					]
+				},
+				{
+					"name":"Other Services",
+					"color":"#bfbfbf",
+					"children":[
+						{
+							"name":"Fine Arts/ !Crafts/ Graphics",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"Non-building !Equipment Selection",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"Building Analysis !and Reports",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"Services Related to !Alterations and !Demolition",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"Life Cycle !Cost Monitoring",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"Environmental !Monitoring",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						},
+						{
+							"name":"One-year Warranty !Inspections",
+							"color":"#bfbfbf",
+							"value":0.07936507937
+						}
+					]
+				}
+			]
+		}
+	]
+}
