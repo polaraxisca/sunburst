@@ -2,7 +2,7 @@
 export default function define(runtime, observer) {
     const main = runtime.module();
     const fileAttachments = new Map([
-        ["flare-2.json", "https://northnodearch.ca/sunburst.json"]
+        ["flare-2.json", "https://github.com/polaraxisca/sunburst/blob/main/sunburst.json"]
     ]);
     main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
     main.variable(observer()).define(["md"], function(md) {
